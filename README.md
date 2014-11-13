@@ -30,8 +30,8 @@ Useage on your own risk.
 
 Images/Font
 ==============================
-I've replaced the original images which some which have a free license, same for the font. Just a precaution to avoid trouble. I'm not sure
-whos the owner of the original images and I don't wanna find out via a lawsuit.
+I've removed the resources (cour.ttf, and 3 images for player, opponent and bullet) because I don't own them and don't want any copyright infringement.
+Maybe at some point I'll replace them with copyright free resources, but right now that is your job.
 
 Last but not least
 ==============================
